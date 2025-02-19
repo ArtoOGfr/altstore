@@ -1,5 +1,5 @@
 {
-    "name": "My Example Source",
+    "name": "ArtoOG",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -12,8 +12,8 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
+            "name": "fortnite 6.00",
+            "bundleIdentifier": "com.example.ftn6",
             "developerName": "Example Developer",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
