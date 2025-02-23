@@ -2,7 +2,7 @@
     "name": "ArtoOG",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "iconURL": "https://github.com/ArtoOGfr/altstore/blob/main/Picsart_25-02-23_00-22-23-094.png?raw=true",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
@@ -14,10 +14,10 @@
         {
             "name": "fortnite 6.00",
             "bundleIdentifier": "com.example.ftn6",
-            "developerName": "Example Developer",
+            "developerName": "Icodron",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://github.com/ArtoOGfr/altstore/blob/main/Picsart_25-02-23_00-22-23-094.png?raw=true",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
