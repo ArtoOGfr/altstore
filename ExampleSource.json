@@ -33,7 +33,7 @@
                     "version": "1.1",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://www.mediafire.com/file/9jqtpxtyjjw9zsf/idroid-emulator-update.ipa/file",
+                    "downloadURL": "http://195.35.48.168:3000/download/idroid.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
