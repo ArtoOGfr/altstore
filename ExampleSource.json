@@ -33,7 +33,7 @@
                     "version": "1.1",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "http://195.35.48.168:3000/download/idroid.ipa",
+                    "downloadURL": "https://bit.ly/idroidipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
