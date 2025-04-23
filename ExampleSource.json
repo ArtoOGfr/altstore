@@ -7,23 +7,23 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        "com.artoog.iandroid",
+        "com.artoog.fortnite"
     ],
     "apps": [
         {
-            "name": "fortnite 6.00",
+            "name": "com.artoog.iandroid",
             "bundleIdentifier": "com.example.ftn6",
             "developerName": "Icodron",
-            "subtitle": "An awesome app.",
+            "subtitle": "Android emulator",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://github.com/ArtoOGfr/altstore/blob/main/Picsart_25-02-23_00-22-23-094.png?raw=true",
+            "iconURL": "https://cdn.discordapp.com/attachments/1361062616650481735/1361386514860478595/Picsart_25-04-14_18-38-13-301.jpg?ex=680a6efe&is=68091d7e&hm=f87e9f95cfb2af12736efcef6fee4f2418c3f9736a3ac8e5fe241524431245ea&",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
                 "https://example.com/myapp_portrait_screenshot2.png",
                 {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "imageURL": "https://cdn.discordapp.com/attachments/1361062616650481735/1361386514860478595/Picsart_25-04-14_18-38-13-301.jpg?ex=680a6efe&is=68091d7e&hm=f87e9f95cfb2af12736efcef6fee4f2418c3f9736a3ac8e5fe241524431245ea&",
                     "width": 2556,
                     "height": 1179
                 }
@@ -33,7 +33,7 @@
                     "version": "1.1",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://www.mediafire.com/file_premium/8t824aokgo47mpi/Fortnite%252BRelease-6.00-CL-4395664.ipa/file",
+                    "downloadURL": "https://www.mediafire.com/file/9jqtpxtyjjw9zsf/idroid-emulator-update.ipa/file",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
