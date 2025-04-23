@@ -12,8 +12,8 @@
     ],
     "apps": [
         {
-            "name": "com.artoog.iandroid",
-            "bundleIdentifier": "com.example.ftn6",
+            "name": "Android Emu",
+            "bundleIdentifier": "com.artoog.iandroid",
             "developerName": "Icodron",
             "subtitle": "Android emulator",
             "localizedDescription": "This is an awesome app only available on AltStore.",
