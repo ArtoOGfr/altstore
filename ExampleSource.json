@@ -41,7 +41,7 @@
                     "version": "1.0",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
+                    "downloadURL": "https://download1334.mediafire.com/ovctheggugugNg_cg6aILSyuc0QGOWpMVqc4BjZkzzw5BadaQqoLt1ulxPNCa_-z64gNx78vq64i6rmR62UgqhhbyswJynKRchL5yCzXRPOPIxU1QvFWDppltja_OlvHQfuA6rjAOUG2bnvVdnPfx1zs7M3b4lEmOWo7o1FfkWRwfsA/tmn0ab8pbjcqndt/Fortnite%2BRelease-11.40-CL-11058555.ipa",
                     "localizedDescription": "Initial release."
                 }
             ],
@@ -58,9 +58,9 @@
             }
         },
         {
-            "name": "Another Example App",
-            "bundleIdentifier": "com.example.anotherapp",
-            "developerName": "Example Developer",
+            "name": "Fortnite 11.40",
+            "bundleIdentifier": "com.artoog.fortnite",
+            "developerName": "Icodron",
             "subtitle": "Another awesome app.",
             "localizedDescription": "This is another awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
